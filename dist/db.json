@@ -39,6 +39,46 @@
       "numberTshirt": "20",
       "country": "Brasil",
       "countryImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Flag_of_Brazil.svg/300px-Flag_of_Brazil.svg.png"
+    },
+    {
+      "id": "7e7d",
+      "name": "Luis",
+      "lastName": "Diaz",
+      "profilePhoto": "https://cdn.resfu.com/img_data/players/medium/344199.jpg?size=340x&lossy=1",
+      "position": "Extremo izquierdo",
+      "numberTshirt": "7",
+      "country": "Colombia",
+      "countryImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/300px-Flag_of_Colombia.svg.png"
+    },
+    {
+      "id": "b7f8",
+      "name": "Luis",
+      "lastName": "Suarez Diaz",
+      "profilePhoto": "https://www.auf.org.uy/imagenes/img_contenido/contenido/a/luis_suarez_auf.jpg",
+      "position": "Delantero",
+      "numberTshirt": "9",
+      "country": "Uruguay",
+      "countryImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Flag_of_Uruguay.svg/300px-Flag_of_Uruguay.svg.png"
+    },
+    {
+      "id": "6e5c",
+      "name": "Yeferson",
+      "lastName": "Soteldo Martinez",
+      "profilePhoto": "https://img.a.transfermarkt.technology/portrait/big/312294-1647975597.jpg?lm=1",
+      "position": "Mediapunta",
+      "numberTshirt": "7",
+      "country": "Venezuela",
+      "countryImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Flag_of_Venezuela.svg/300px-Flag_of_Venezuela.svg.png"
+    },
+    {
+      "id": "f04b",
+      "name": "Eric Javier",
+      "lastName": "Davis Grajales",
+      "profilePhoto": "https://www.shutterstock.com/editorial/image-editorial/O2TdU906N4jcM90dOTEwMw==/eric-davis-panama-prior-kick-off-1500w-9476248bn.jpg",
+      "position": "Lateral Izquierdo",
+      "numberTshirt": "15",
+      "country": "Panama",
+      "countryImg": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flag_of_Panama.svg/300px-Flag_of_Panama.svg.png"
     }
   ]
 }
